@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrlv-src
-- 👀 I’m interested in Linux, C, C++, Vim, Python
-- 🌱 I’m currently learning C, Vim, IoT
+- 👀 I’m interested in Linux, C, C++, Emacs, Python, Lisp
+- 🌱 I’m currently learning C, Emacs, IoT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
